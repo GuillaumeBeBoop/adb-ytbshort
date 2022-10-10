@@ -11,5 +11,5 @@ twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##.Who
 twitter.com,twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion##div[data-testid=sidebarColumn] > div > div > div > div > div > div > div:nth-of-type(3)
 
 ! ——— YouTube ———
-youtube.com##ytd-grid-video-renderer:has(span.ytd-thumbnail-overlay-time-status-renderer[aria-label="Shorts"])
-youtube.com/feed/subscriptions##ytd-grid-video-renderer:has(span.ytd-thumbnail-overlay-time-status-renderer[aria-label="Shorts"])
+youtube.com##.ytd-grid-renderer:has(span.ytd-thumbnail-overlay-time-status-renderer[aria-label="Shorts"])
+youtube.com/feed/subscriptions##.ytd-grid-renderer:has(span.ytd-thumbnail-overlay-time-status-renderer[aria-label="Shorts"])
